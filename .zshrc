@@ -138,3 +138,6 @@ source $ZSH/oh-my-zsh.sh
 alias update="~/Repos/sysScripts/./update.sh"
 alias gitc="git commit"
 alias gitp="git push"
+alias v="nvim"
+alias vi="nvim"
+alias vim="nvim" 
