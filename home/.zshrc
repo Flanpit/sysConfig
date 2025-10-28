@@ -156,4 +156,3 @@ alias v="nvim"
 alias vi="nvim"
 alias vim="nvim" 
 alias yay="paru"
-source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
